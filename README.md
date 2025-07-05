@@ -9,6 +9,10 @@ Este proyecto es un componente web reutilizable que implementa un **menú latera
 ![(https://github.com/user-attachments/assets/7ae327d4-aebf-4d4d-80e5-c1c7e0031245)
 
 
+
+https://github.com/user-attachments/assets/85e524ae-414d-4320-a4fd-560fddcd8181
+
+
 ---
 
 ## Cómo Usarlo
