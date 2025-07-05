@@ -6,6 +6,9 @@ Este proyecto es un componente web reutilizable que implementa un **menú latera
 ![image](https://github.com/user-attachments/assets/6844efc3-b9d9-4e7f-91fe-01e59c90fd2b)
 
 
+https://github.com/Soucklast/componenteWEB/issues/1#issue-3204312896
+
+
 ---
 
 ## Cómo Usarlo
