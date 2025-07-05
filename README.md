@@ -2,6 +2,10 @@
 
 Este proyecto es un componente web reutilizable que implementa un **menú lateral moderno, desplegable y contraíble**, ideal para dashboards, paneles administrativos o sitios que requieran navegación clara y jerárquica.
 
+
+![image](https://github.com/user-attachments/assets/6844efc3-b9d9-4e7f-91fe-01e59c90fd2b)
+
+
 ---
 
 ## Cómo Usarlo
